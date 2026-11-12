@@ -8,12 +8,10 @@
 
 - 🏢 &nbsp;I'm currently working as a software developer at **[GBTEC Group]**
 - 🎓 &nbsp;I'm studying a master's in Computer Engineering at **[Universidade da Coruña]**
-- 🌱 &nbsp;I'm currently working on **[scholia-rs]** and my master's thesis
+- 🌱 &nbsp;Working on **[scholia-rs]** and my master's thesis
 - 💬 &nbsp;I like to talk about **backend development**, **Rust** and **NixOS**
 - 📫 &nbsp;Ask me anything on my **[issues page]**
 - 💻 &nbsp;Connect with me on **[LinkedIn]**
-
-<br>
 
 <h2 align="left" id="adega-tech">Favorite Tech</h2>
 
@@ -34,7 +32,7 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" title="Rust" /></a>
+      <a href="https://www.rust-lang.org"><img src="https://rustacean.net/assets/rustacean-flat-happy.svg" width="64" height="48" alt="Rust" title="Rust" /></a>
       <br>Rust
     </td>
     <td align="center" width="96">
