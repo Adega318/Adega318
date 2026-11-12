@@ -3,7 +3,9 @@
 
 <p align="left">
   <a href="https://github.com/Adega318?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Adega318?style=flat&logo=github"></a>
-  <a href="https://github.com/Adega318/Adega318"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Adega318&style=flat" /></a>
+    <a href="https://github.com/Adega318/Adega318"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Adega318&style=flat" /></a>
+  <a href="https://github.com/Adega318/Adega318"><img src="https://komarev.com/ghpvc/?username=adega318" alt="page views" /></a>
+<a href="https://github.com/Adega318?tab=repositories"><img alt="Top language" src="https://img.shields.io/github/languages/top/Adega318/scholia-rs?style=flat&logo=rust" /></a>
 </p>
 
 - 🏢 &nbsp;I'm currently working as a software developer at **[GBTEC Group]**
