@@ -56,4 +56,4 @@
 [Universidade da Coruña]: https://www.udc.es "Universidade da Coruña"
 [scholia-rs]: https://github.com/Adega318/scholia-rs "Adega318/scholia-rs"
 [issues page]: https://github.com/Adega318/Adega318/issues "Adega318/Adega318 issues"
-[linkedin]: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE "Enrique Adega Fernández on LinkedIn"
+[linkedin]: https://www.linkedin.com/in/eadega "Enrique Adega Fernández on LinkedIn"
